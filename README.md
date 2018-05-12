@@ -1,6 +1,6 @@
 # xcodepandawa2
 
-X-code Pandawa Standard for Ubuntu 16.04 LTS v2.0 Beta 1
+X-code Pandawa Standard for Ubuntu 16.04 LTS v2.0
 ------------------------------------------
 
 ![alt text](http://xcode.or.id/04_small-logo.png)

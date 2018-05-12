@@ -10,7 +10,7 @@ Aplikasi untuk membangun NAT, DHCP Server, bandwidth managemen, access log, cach
 Apa kelebihan versi 2.2?
 ----------------------
 
-- Support Web Managemen dan fitur DHCP Leases disempurnakan
+- Support Web Managemen dan fitur DHCP Leases (Real time)
 
 Cara menggunakan :
 ------------------

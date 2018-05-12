@@ -1,16 +1,16 @@
 # xcodepandawa2
 
-X-code Pandawa Standard for Ubuntu 16.04 LTS v2.0 (Support web managemen)
+X-code Pandawa Standard for Ubuntu 16.04 LTS v2.1 (Support web managemen)
 ------------------------------------------
 
 ![alt text](http://xcode.or.id/04_small-logo.png)
 
 Aplikasi untuk membangun NAT, DHCP Server, bandwidth managemen, access log, cache web, port forwarding, VPN Server, apache2, mysql-server, virtualhost, DNS Server & Samba secara cepat termasuk konfigurasinya. 
 
-Apa kelebihan versi 2.0?
+Apa kelebihan versi 2.1?
 ----------------------
 
-- Support Web Managemen
+- Support Web Managemen dan penambahan fitur DHCP Leases
 
 Cara menggunakan :
 ------------------
@@ -40,9 +40,9 @@ Perintah instalasi dan menjalankannya
 
 - cd xcodepandawastandardstable
 
-- dpkg -i xcodepandawa2.deb
+- dpkg -i xcodepandawa21.deb
 
-- cd /xcodepandawa2
+- cd /xcodepandawa21
 
 - ./xcoderouter (Untuk router)
 

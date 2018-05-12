@@ -40,9 +40,9 @@ Perintah instalasi dan menjalankannya
 
 - cd xcodepandawastandardstable
 
-- dpkg -i xcodepandawa21.deb
+- dpkg -i xcodepandawa22.deb
 
-- cd /xcodepandawa21
+- cd /xcodepandawa22
 
 - ./xcoderouter (Untuk router)
 

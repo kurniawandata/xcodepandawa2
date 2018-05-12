@@ -50,7 +50,7 @@ Perintah instalasi dan menjalankannya
 
 - Install X-code pandawa
 
-- Untuk akses web managemen : https://ip addresss:4200
+- Untuk akses web managemen : https://ip addresss:1500
 
 Support gratis
 --------------

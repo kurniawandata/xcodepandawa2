@@ -38,7 +38,7 @@ Perintah instalasi dan menjalankannya
 
 - git clone https://github.com/kurniawandata/xcodepandawa2
 
-- cd xcodepandawastandardstable
+- cd xcodepandawa2
 
 - dpkg -i xcodepandawa23.deb
 

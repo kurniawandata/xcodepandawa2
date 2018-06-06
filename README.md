@@ -37,7 +37,7 @@ Perintah instalasi dan menjalankannya
 
 - cd xcodepandawa2
 
-- dpkg -i xcodepandawa23.deb
+- dpkg -i xcodepandawa26.deb
 
 - cd /xcodepandawa2
 

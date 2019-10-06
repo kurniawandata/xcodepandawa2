@@ -49,12 +49,6 @@ Perintah instalasi dan menjalankannya
 
 - Untuk akses web managemen : https://ip addresss:1500
 
-Support gratis
---------------
-
-- Training X-code pandawa standard gratis di Jogja : http://xcodetraining.com/xcodepandawa 
-
-- Group whatsapp, untuk bergabung, kontak Lina :  0813 9388 2080
 
 Progammer 
 ---------

@@ -1,11 +1,11 @@
 # xcodepandawa2
 
-X-code Pandawa Standard for Ubuntu 16.04 LTS v2.8 (Support web managemen) - 24/07/2018 
+X-code Pandawa Standard for Ubuntu 16.04 LTS v2.9 (Support web managemen) - 30/10/2019 
 ------------------------------------------
 
 ![alt text](http://xcode.or.id/04_small-logo.png)
 
-Aplikasi untuk membangun NAT, DHCP Server, bandwidth managemen, access log, cache web, port forwarding, VPN Server, apache2, mysql-server, virtualhost, DNS Server & Samba secara cepat termasuk konfigurasinya. 
+Aplikasi untuk membangun NAT, DHCP Server, access log, cache web, port forwarding, VPN Server, apache2, mysql-server, virtualhost, DNS Server & Samba secara cepat termasuk konfigurasinya. 
 
 Tutorial menggunakan X-code Pandawa Router & Server (PDF) : https://drive.google.com/file/d/13hFaeD8JMWWRv5WNfC3BRKg2VrEy9XZj/view?usp=sharing
 
@@ -55,10 +55,6 @@ Progammer
 
 - Programmer : Kurniawan. xcode.or.id. trainingxcode@gmail.com
 
-Donasi
------- 
-
-- Bagi yang ingin donasi dapat kontak Lina : Phone / whatsapp : 0813 9388 2080 
 
 License
 ------- 

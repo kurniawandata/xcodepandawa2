@@ -1,6 +1,6 @@
 # xcodepandawa2
 
-X-code Pandawa Standard for Ubuntu 16.04 LTS v2.9 (Support web managemen) - 30/10/2019 
+X-code Pandawa Standard for Ubuntu 16.04 LTS v2.91 (Support web managemen) - 27/04/2020 
 ------------------------------------------
 
 ![alt text](http://xcode.or.id/04_small-logo.png)

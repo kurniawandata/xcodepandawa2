@@ -57,7 +57,7 @@ Progammer
 License
 ------- 
 
-- GNU General Public License 
+- GNU General Public License v3 
 
 
 Donasi :

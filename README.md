@@ -51,7 +51,7 @@ Perintah instalasi dan menjalankannya
 Progammer 
 ---------
 
-- Programmer : Kurniawan. xcode.or.id. trainingxcode@gmail.com
+- Programmer : Kurniawan. xcode.or.id. kurniawan@xcodetraining.com
 
 
 License

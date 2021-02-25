@@ -51,7 +51,7 @@ Perintah instalasi dan menjalankannya
 Progammer 
 ---------
 
-Kurniawan. xcode.or.id. E-mail : kurniawan@securityhub.id
+Kurniawan. xcode.or.id. E-mail : kurniawanajazenfone@gmail.com
 
 
 License
